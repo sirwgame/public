@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRM_WQG_UI", "CRM_WQG_UI\CRM_WQG_UI.csproj", "{2F9B3171-4554-4A9A-A15F-41FF896384CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRM_WQG_DAL", "CRM_WQG_DAL\CRM_WQG_DAL.csproj", "{7770D000-854A-4B12-9758-327AAF3A39E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRM_WQG_BLL", "CRM_WQG_BLL\CRM_WQG_BLL.csproj", "{4542E756-2D59-464D-9745-CCFA10F2D772}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F9B3171-4554-4A9A-A15F-41FF896384CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F9B3171-4554-4A9A-A15F-41FF896384CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F9B3171-4554-4A9A-A15F-41FF896384CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F9B3171-4554-4A9A-A15F-41FF896384CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7770D000-854A-4B12-9758-327AAF3A39E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7770D000-854A-4B12-9758-327AAF3A39E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7770D000-854A-4B12-9758-327AAF3A39E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7770D000-854A-4B12-9758-327AAF3A39E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4542E756-2D59-464D-9745-CCFA10F2D772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4542E756-2D59-464D-9745-CCFA10F2D772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4542E756-2D59-464D-9745-CCFA10F2D772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4542E756-2D59-464D-9745-CCFA10F2D772}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
