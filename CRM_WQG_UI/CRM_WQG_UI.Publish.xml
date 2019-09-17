@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\老王\Desktop\Student" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="配置文件1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="EditStudent.aspx" publishTime="06/14/2018 00:28:52" />
+    <file relUrl="reg.aspx" publishTime="06/21/2018 13:33:11" />
+    <file relUrl="test.aspx" publishTime="06/20/2018 09:51:31" />
+    <file relUrl="AdminCourseList.aspx" publishTime="06/14/2018 14:01:52" />
+    <file relUrl="bin/mysql.data.dll" publishTime="01/10/2014 01:43:32" />
+    <file relUrl="MyInfo.aspx" publishTime="06/13/2018 21:29:08" />
+    <file relUrl="Images/170x170.gif" publishTime="06/11/2018 12:47:11" />
+    <file relUrl="Images/main_top_bg.gif" publishTime="04/16/2008 21:26:14" />
+    <file relUrl="Images/top_pic2.jpg" publishTime="12/07/2017 18:11:19" />
+    <file relUrl="admin.Master" publishTime="06/21/2018 14:01:19" />
+    <file relUrl="Images/header.jpg" publishTime="12/13/2017 16:27:29" />
+    <file relUrl="UpdateInfo.aspx" publishTime="06/21/2018 13:46:15" />
+    <file relUrl="Images/tri.gif" publishTime="06/13/2018 10:27:34" />
+    <file relUrl="css/loginDialog.css" publishTime="06/11/2018 13:02:33" />
+    <file relUrl="Images/bottom_bg.gif" publishTime="04/16/2008 21:26:14" />
+    <file relUrl="bin/CRM_WQG_DAL.dll" publishTime="06/20/2018 10:18:54" />
+    <file relUrl="Addstudent.aspx" publishTime="06/21/2018 14:03:52" />
+    <file relUrl="StudentInfo.aspx" publishTime="06/14/2018 00:00:13" />
+    <file relUrl="bin/mysql.data.entity.dll" publishTime="01/10/2014 01:43:32" />
+    <file relUrl="EditCourse.aspx" publishTime="06/14/2018 13:39:02" />
+    <file relUrl="Images/pic_top.jpg" publishTime="12/08/2017 14:31:03" />
+    <file relUrl="AddCourse.aspx" publishTime="06/21/2018 14:10:30" />
+    <file relUrl="bin/mysql.web.dll" publishTime="01/10/2014 01:43:32" />
+    <file relUrl="Images/background.png" publishTime="06/11/2018 12:46:06" />
+    <file relUrl="Images/140x140.gif" publishTime="06/11/2018 12:47:11" />
+    <file relUrl="js/reg.js" publishTime="06/11/2018 13:01:31" />
+    <file relUrl="bin/MySql.Parser.dll" publishTime="03/02/2014 15:53:25" />
+    <file relUrl="js/jquery-ui.js" publishTime="06/11/2018 13:01:31" />
+    <file relUrl="MyCourseInfo.aspx" publishTime="06/14/2018 14:18:28" />
+    <file relUrl="AdminCourseInfo.aspx" publishTime="06/14/2018 13:28:34" />
+    <file relUrl="bin/MySql.Debugger.dll" publishTime="03/06/2014 07:06:34" />
+    <file relUrl="Images/input_long.jpg" publishTime="06/13/2018 10:27:34" />
+    <file relUrl="IdentifyingCode.aspx" publishTime="11/29/2017 19:28:40" />
+    <file relUrl="Images/top_pic1.jpg" publishTime="12/07/2017 18:06:01" />
+    <file relUrl="default.aspx" publishTime="06/20/2018 11:11:55" />
+    <file relUrl="js/jquery-1.4.4.min.js" publishTime="06/13/2018 10:26:00" />
+    <file relUrl="admin.aspx" publishTime="06/14/2018 00:39:08" />
+    <file relUrl="Images/box_top.png" publishTime="06/13/2018 10:27:34" />
+    <file relUrl="Images/box_bottom.png" publishTime="06/13/2018 10:27:34" />
+    <file relUrl="css/style1.css" publishTime="06/14/2018 00:40:29" />
+    <file relUrl="bin/CRM_WQG_UI.dll" publishTime="06/21/2018 14:32:33" />
+    <file relUrl="Images/body_bg.png" publishTime="06/13/2018 10:27:34" />
+    <file relUrl="App_Data/web.mdb" publishTime="06/21/2018 14:32:56" />
+    <file relUrl="css/Default.css" publishTime="06/13/2018 11:07:24" />
+    <file relUrl="Images/pic.jpg" publishTime="11/28/2017 20:41:26" />
+    <file relUrl="Images/login_m_bg.png" publishTime="06/11/2018 12:51:57" />
+    <file relUrl="student.Master" publishTime="06/21/2018 13:47:41" />
+    <file relUrl="bin/CRM_WQG_UI.pdb" publishTime="06/21/2018 14:32:32" />
+    <file relUrl="Images/input.jpg" publishTime="06/13/2018 10:27:34" />
+    <file relUrl="Images/main_top_1.gif" publishTime="04/16/2008 21:26:14" />
+    <file relUrl="Web.config" publishTime="06/21/2018 14:49:37" />
+    <file relUrl="bin/CRM_WQG_BLL.pdb" publishTime="06/21/2018 14:32:32" />
+    <file relUrl="bin/mysql.visualstudio.dll" publishTime="03/07/2014 10:11:38" />
+    <file relUrl="bin/CRM_WQG_DAL.pdb" publishTime="06/20/2018 10:18:54" />
+    <file relUrl="js/jquery-1.8.3.min.js" publishTime="06/11/2018 13:01:22" />
+    <file relUrl="CourseInfo.aspx" publishTime="06/13/2018 21:32:11" />
+    <file relUrl="Images/buttom.png" publishTime="06/13/2018 10:27:34" />
+    <file relUrl="Images/input_long_light.jpg" publishTime="06/13/2018 10:27:34" />
+    <file relUrl="css/style.css" publishTime="06/13/2018 10:45:43" />
+    <file relUrl="bin/Antlr3.Runtime.dll" publishTime="01/10/2014 01:43:32" />
+    <file relUrl="bin/CRM_WQG_BLL.dll" publishTime="06/21/2018 14:32:32" />
+    <file relUrl="bin/MySql.Debugger.VisualStudio.dll" publishTime="03/06/2014 07:06:34" />
+  </publishProfile>
+</publishData>
