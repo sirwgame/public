@@ -1,3 +1,7 @@
-## 下载页面
-
-You can use the [editor on GitHub](https://github.com/sirwgame/public/edit/master/index.md)
+<?xml version="1.0" encoding="utf-8" ?>   
+<Update>  
+   <Soft Name="BlogWriter">  
+     <Verson>1.0.1.2</Verson>   
+     <DownLoad>http://www.csdn.net/BlogWrite.rar</DownLoad>   
+  </Soft>  
+</Update>
