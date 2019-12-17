@@ -2,7 +2,7 @@
 <Update>  
    <Soft Name="Google Translate">  
      <Verson>1.0.1.4</Verson>   
-     <time>2019/12/16</time>
+     <Time>2019/12/16</Time>
      <DownLoad>https://github.com/sirwgame/update/archive/master.zip</DownLoad>
      <Logs>
         <Log ver="1.0.1.0">完善程序框架和翻译接口。</Log>
