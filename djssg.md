@@ -1,5 +1,4 @@
-> 东京喰种第一季
-=======
+**东京喰种第一季**
 
 点击进入观看
 
@@ -9,7 +8,6 @@
 *   [第04集](http://zy.zxziyuan-yun.com/share/h5f7MbPwIgix6WHi)
 *   [第05集](http://zy.zxziyuan-yun.com/share/Nb0VtG6gO9nro66X)
 *   [第06集](http://zy.zxziyuan-yun.com/share/T2U7csKzD4Pm5ecU)
-
 *   [第07集](http://zy.zxziyuan-yun.com/share/5rTlUDEq9sqnjUJ3)
 *   [第08集](http://zy.zxziyuan-yun.com/share/vifWf52Z0H4scaLn)
 *   [第09集](http://zy.zxziyuan-yun.com/share/PwbvUSkqEI2Shmgj)
