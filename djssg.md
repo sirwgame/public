@@ -68,20 +68,21 @@
 
 点击进入观看**【2020-02-17 13:51 更新】**
 
-|       片名        |                              资源                              |
-| :---------------: | :------------------------------------------------------------: |
-| 东京喰种第四季 01 | [点击播放](https://www.zbshuoqi.com:65/share/iQM1qd2RQCwGPBcN) |
-| 东京喰种第四季 02 | [点击播放](https://www.zbshuoqi.com:65/share/HwEDkUvj7Kd1J4F7) |
-| 东京喰种第四季 03 | [点击播放](https://www.zbshuoqi.com:65/share/Q5u6qvZ6CgYIYupk) |
-| 东京喰种第四季 04 | [点击播放](https://www.zbshuoqi.com:65/share/6Qke98j8J2MJpSFX) |
-| 东京喰种第四季 05 | [点击播放](https://www.zbshuoqi.com:65/share/ZflveAQYQKosru6P) |
-| 东京喰种第四季 06 | [点击播放](https://www.zbshuoqi.com:65/share/4YlQZ5vaMpX6Ysjm) |
-| 东京喰种第四季 07 | [点击播放](https://www.zbshuoqi.com:65/share/J3It12tdBmpDaD58) |
-| 东京喰种第四季 08 | [点击播放](https://www.zbshuoqi.com:65/share/8E4izsKjYeBXyqDl) |
-| 东京喰种第四季 09 | [点击播放](https://www.zbshuoqi.com:65/share/Q4CZpQFkFrfiBNay) |
-| 东京喰种第四季 10 | [点击播放](https://www.zbshuoqi.com:65/share/i7R080ZAHFiIxR3l) |
-| 东京喰种第四季 11 | [点击播放](https://www.zbshuoqi.com:65/share/1M6KjVnVJGI5dZIW) |
-| 东京喰种第四季 12 | [点击播放](https://www.zbshuoqi.com:65/share/hB5LSenPxeM3fX5Q) |
+
+|       片名        |                              资源1                             |                                      资源2                                      |
+| :---------------: | :------------------------------------------------------------: | :-----------------------------------------------------------------------------: |
+| 东京喰种第四季 01 | [点击播放](https://www.zbshuoqi.com:65/share/iQM1qd2RQCwGPBcN) |[点击播放](https://zy.baidu-360-yyy-kubo.com/share/73E64yjwtADEEc0A)|
+| 东京喰种第四季 02 | [点击播放](https://www.zbshuoqi.com:65/share/HwEDkUvj7Kd1J4F7) |[点击播放](https://zy.baidu-360-yyy-kubo.com/share/tEURqtT5hk8PiXFe)|
+| 东京喰种第四季 03 | [点击播放](https://www.zbshuoqi.com:65/share/Q5u6qvZ6CgYIYupk) |[点击播放](https://zy.baidu-360-yyy-kubo.com/share/651AQBSYOtUTQ21c)|
+| 东京喰种第四季 04 | [点击播放](https://www.zbshuoqi.com:65/share/6Qke98j8J2MJpSFX) |[点击播放](https://zy.kubo-360-tudou.com/share/1822a750b7c610a4749911c916422dc7)|
+| 东京喰种第四季 05 | [点击播放](https://www.zbshuoqi.com:65/share/ZflveAQYQKosru6P) |[点击播放](https://zy.baidu-360-yyy-kubo.com/share/Sqctqs0UsqbTx0TI)|
+| 东京喰种第四季 06 | [点击播放](https://www.zbshuoqi.com:65/share/4YlQZ5vaMpX6Ysjm) |[点击播放](https://yun.kubo-zy-youku.com/share/oFbHmY6Zuhs8gb8w)|
+| 东京喰种第四季 07 | [点击播放](https://www.zbshuoqi.com:65/share/J3It12tdBmpDaD58) |[点击播放](https://zy.kubozy-360-baidu.com/share/d6f8d124087ad4c23fe66b89b7893523)|
+| 东京喰种第四季 08 | [点击播放](https://www.zbshuoqi.com:65/share/8E4izsKjYeBXyqDl) |[点击播放](https://zy.kubozy-360-baidu.com/share/6cc6e45d2f9cf66facfacd3554b52577)|
+| 东京喰种第四季 09 | [点击播放](https://www.zbshuoqi.com:65/share/Q4CZpQFkFrfiBNay) |[点击播放](https://zy.kubozy-360-baidu.com/share/b599e8250e4481aaa405a715419c8179)|
+| 东京喰种第四季 10 | [点击播放](https://www.zbshuoqi.com:65/share/i7R080ZAHFiIxR3l) |[点击播放](https://zy.kubozy-360-baidu.com/share/40bf82623caded1cd84332d5e3cf4d72)|
+| 东京喰种第四季 11 | [点击播放](https://www.zbshuoqi.com:65/share/1M6KjVnVJGI5dZIW) |[点击播放](https://yun.kubo-zy-youku.com/share/afDWKuOxwlUQbjKt)|
+| 东京喰种第四季 12 | [点击播放](https://www.zbshuoqi.com:65/share/hB5LSenPxeM3fX5Q) |[点击播放](https://yun.kubo-zy-youku.com/share/F3NSkn3P3G8eDjuB)|
 
 ### 东京喰种-真人版
 
