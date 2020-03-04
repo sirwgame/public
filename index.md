@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>   
-<Update>  
-   <Soft Name="BlogWriter">  
-     <Verson>1.0.1.2</Verson>   
-     <DownLoad>http://www.csdn.net/BlogWrite.rar</DownLoad>   
-  </Soft>  
-</Update>
+| **点击下方链接快速跳转片名(部分资源加载较慢)** |
+| :--------------------------: |
+| [东京喰种（1~4季，真人版）](https://sirwgame.github.io/public/djssg) |
+| [无心法师（1~2季）](https://sirwgame.github.io/public/wxfs) |
