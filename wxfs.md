@@ -2,7 +2,7 @@
 | :--------------------------: |
 | [无心法师第一季](#无心法师第一季)       |
 | [无心法师第二季](#无心法师第二季)       |
-| [无心法师第三季(更新至第08集)](#无心法师第三季)       |
+| [无心法师第三季(更新至第12集)](#无心法师第三季)       |
 
 ### 无心法师第一季
 
@@ -67,7 +67,7 @@
 
 ### 无心法师第三季
 
-点击进入观看**【2020-03-04 9:30 更新至第08集】**
+点击进入观看**【2020-03-14 14:36 更新至第08集】**
 
 | 片名              |                             资源                              |
 | :---------------: | :-----------------------------------------------------------: |
@@ -79,3 +79,7 @@
 | 无心法师第三季 第06集 | [点击播放](https://www.gentaji.com/share/M7A83npZRjGT3Kkv)|
 | 无心法师第三季 第07集 | [点击播放](https://www.gentaji.com/share/VqpUHpjUQIv8CFQd)|
 | 无心法师第三季 第08集 | [点击播放](https://www.gentaji.com/share/cwWj6VCf8wqZ6NQi)|
+| 无心法师第三季 第09集 | [点击播放](https://www.gentaji.com/share/qjNkjRjXSdtPAi1Q)|
+| 无心法师第三季 第10集 | [点击播放](https://www.gentaji.com/share/9hGHaYyJMnNn5Zl0)|
+| 无心法师第三季 第11集 | [点击播放](https://www.gentaji.com/share/FRA6RPhZLUf4PAwG)|
+| 无心法师第三季 第12集 | [点击播放](https://www.gentaji.com/share/YkiG4vITKOPxrFS3)|
